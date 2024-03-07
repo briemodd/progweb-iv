@@ -15,10 +15,11 @@ header {
 ul, li {
     list-style: none;
     font-size: 1.2rem;
+    display: inline;
 }
 
 .topnav {
-  background-color: #333;
+  background-color: #044444;
   overflow: hidden;
 }
 
