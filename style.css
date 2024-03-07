@@ -16,3 +16,20 @@ ul, li {
     list-style: none;
     font-size: 1.2rem;
 }
+
+a{
+    text-decoration: none;
+    color: green;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li{
+    margin-left:20px;
+}
+
+.menu li a{
+    padding: 5 px;
+}
