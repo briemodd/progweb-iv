@@ -1,9 +1,7 @@
-*{
+body {
+    background: linear-gradient(0deg, #2b513c 0%, #0c443c 100%);
     margin:0;
     padding:0;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif
-}
-body {
-    background: linear-gradient(0deg, #2b513c 0%, #0c443c 100%);
 }
