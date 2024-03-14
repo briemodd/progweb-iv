@@ -19,6 +19,7 @@ ul, li {
 
 .topnav {
   display: flex;
+  justify-content: flex-start
   background-color: #044444;
   overflow: hidden;
 }
